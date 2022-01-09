@@ -1,0 +1,12 @@
+const IS_RESPONSE_ID = "IS_RESPONSE_ID";
+const TRY_GET_ID = "TRY_GET_ID";
+const IS_LOADING_ID = "IS_LOADING_ID";
+const IS_ERROR_ID = "IS_ERROR_ID";
+
+
+export {
+    IS_RESPONSE_ID,
+    IS_LOADING_ID,
+    IS_ERROR_ID,
+    TRY_GET_ID,
+}
